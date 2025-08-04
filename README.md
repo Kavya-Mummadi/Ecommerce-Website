@@ -58,7 +58,7 @@ It provides a clean, modern UI with rich visuals, interactive modals, and a seam
 
 ```bash
 ecommerce-website/
-├── ecommerce.html             # Main website page
+├── ecommerce.html         # Main website page
 ├── ecommerce.css          # Custom CSS styling
 ├── vercel.json            # Deployment config (if using Vercel)  
 ├── README.md              # Project documentation
@@ -80,4 +80,4 @@ ecommerce-website/
 
 This Responsive website is successfully deployed on Vercel for fast, reliable access across devices.
 
-🔗 Live Demo: []
+🔗 Live Demo: [https://responsive-ecommerce-website-neon.vercel.app/]
