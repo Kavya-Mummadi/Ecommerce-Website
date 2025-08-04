@@ -1,0 +1,293 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+#navitem1 {
+  font-family: "Roboto";
+  color: Black;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+#navitem2 {
+  font-family: "Roboto";
+  color: Black;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+#navitem3 {
+  font-family: "Roboto";
+  color: Black;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+#navitem4 {
+  font-family: "Roboto";
+  color: Black;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+#navitem5 {
+  font-family: "Roboto";
+  color: Black;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.ecommerce-page-brang-logo {
+  width: 200px;
+}
+
+.ecommerce-page-banner-section-images {
+  height: 100vh;
+  background-size: cover;
+  width: 100vw;
+}
+
+.ecommerce-page-service-section-main-head {
+  font-family: "Roboto";
+  color: #183b56;
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.ecommerce-page-service-section-paragraph {
+  font-family: "Roboto";
+  color: #616c7c;
+  font-size: 28px;
+  font-weight: 500;
+}
+
+.ecommerce-page-mini-card-pics {
+  width: 25%;
+}
+
+.ecommerce-service-section-page-mini-card-main-heading {
+  font-family: "Roboto";
+  color: #183b56;
+  font-size: 35px;
+  font-weight: 500;
+}
+
+.ecommerce-service-section-page-mini-card-description .ecommerce-website-product-section-main-heading {
+  font-family: "Roboto";
+  color: #183b56;
+  font-size: 35px;
+  font-weight: 600;
+}
+
+.ecommerce-website-product-section-card-1 {
+  background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+  width: 100%;
+  height: 50vh;
+  background-size: cover;
+  border-radius: 20px;
+}
+
+.ecommerce-website-product-section-card-2 {
+  background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+  width: 100%;
+  height: 50vh;
+  background-size: cover;
+  border-radius: 20px;
+}
+
+.ecommerce-website-product-section-card-main-heading {
+  font-family: "Roboto";
+  color: #ffffff;
+  font-size: 55px;
+  font-weight: 600;
+}
+
+.ecommerce-website-product-section-card-description {
+  font-family: "Roboto";
+  font-size: 26px;
+  font-weight: 400;
+}
+
+.ecommerce-website-product-section-card-custom-button {
+  border-width: 0px;
+  width: 150px;
+  background-color: #ffffff;
+  border-radius: 30px;
+  font-family: "Roboto";
+  font-weight: 500;
+  color: gold;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.ecommerce-website-products-section-see-section {
+  font-family: "Roboto";
+  color: #ff9f00;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.ecommerce-website-product-section-modal-highlight {
+  font-family: "Roboto";
+  color: #323f4b;
+  font-weight: bold;
+}
+
+.ecommerce-website-product-section-modal-para {
+  font-family: "Roboto";
+  color: #323f4b;
+  font-size: 24px;
+}
+
+.ecommerce-website-product-section-modal-custom-button {
+  font-family: "Roboto";
+  font-weight: 500;
+  color: #323f4b;
+  font-size: 25px;
+  border-width: 2px;
+  width: 130px;
+}
+
+.ecommerce-website-product-section-modal-title {
+  font-family: "Roboto";
+  color: #323f4b;
+  font-weight: 500;
+  font-size: 35px;
+}
+
+.ecommerce-website-offers-section-bg-container {
+  background-image: linear-gradient(to right, #f49541, #dd5d97);
+}
+
+.ecommerce-website-description-main-heading {
+  font-family: "Roboto";
+  color: #ad2167;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.ecommerce-website-description-para {
+  font-family: "Roboto";
+  font-size: 25px;
+  font-weight: 400;
+}
+
+.ecommerce-website-discount-highlight {
+  font-weight: 800;
+}
+
+.ecommerce-website-trending-blogs-section-main-heading {
+  font-family: "Roboto";
+  color: #183b56;
+  font-size: 35px;
+  font-weight: 900;
+}
+
+.ecommerce-website-trending-blogs-section-card-mini-text {
+  font-family: "Roboto";
+  color: #959ead;
+  font-size: 19px;
+  font-weight: 400;
+}
+
+.ecommerce-website-trending-blogs-section-card-main-heading {
+  font-family: "Roboto";
+  color: #183b56;
+  font-size: 23px;
+  font-weight: 900;
+}
+
+.ecommerce-website-trending-blogs-section-card-description {
+  font-family: "Roboto";
+  color: #959ead;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.ecommerce-website-trending-blogs-section-read-text {
+  font-family: "Roboto";
+  color: #ff9f00;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.ecommerce-website-explore-swction-bg-container {
+  background-color: #f5f7fa;
+}
+
+.ecommerce-website-explore-section-main-heading {
+  font-family: "Roboto";
+  color: #1f2933;
+  font-weight: 600;
+  font-size: 35px;
+}
+
+.ecommerce-website-explore-section-card-1 {
+  background-color: white;
+  border-radius: 15px;
+}
+
+.ecommerce-website-explore-section-card-main-heading {
+  font-family: "Roboto";
+  color: #1f2933;
+  font-weight: 600;
+  font-size: 22px;
+}
+
+.ecommerce-website-explore-section-card-images {
+  border-radius: 25px;
+  width: 100%;
+}
+
+.ecommerce-website-explore-section-cards-description {
+  font-family: "Roboto";
+  color: #1f2933;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.ecommerce-website-explore-section-card-see-details {
+  font-family: "Roboto";
+  color: #ff9f00;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.ecommerce-website-explore-card-arrow {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.ecommerce-website-explore-section-card-2-image {
+  width: 100%;
+  border-radius: 25px;
+}
+
+.ecommerce-website-explore-section-card-3-description {
+  font-family: "Roboto";
+  color: #183b56;
+  font-weight: 600;
+  font-size: 25px;
+}
+
+.ecommerce-website-contact-us-section-bg-container {
+  background-color: #f5f7fa;
+}
+
+.ecommerce-website-contact-us-section-main-heading {
+  font-family: "Roboto";
+  color: #183b56;
+  font-size: 30px;
+  font-weight: 800;
+}
+
+.ecommerce-website-contact-us-section-click {
+  border-style: solid;
+  border-color: #ff9f00;
+  border-width: 3px;
+  padding-left: 15px;
+  width: 175px;
+  background-color: transparent;
+  font-family: "Roboto";
+  font-size: 25px;
+  font-weight: 500;
+  color: #ff9f00;
+}
